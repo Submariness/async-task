@@ -15,6 +15,7 @@
     android:id="@+id/mButton"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="按钮"/>
+    android:text="按钮"
+    android:background="#55ff55"/>
     
 </LinearLayout>
