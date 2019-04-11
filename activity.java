@@ -1,5 +1,7 @@
 public class MainActivity extends Activity{
-  
+  /**
+   *  @author Submarine
+   */
   private ImageView mImage;
   private Button mButton;
   
