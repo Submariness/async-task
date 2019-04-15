@@ -1,9 +1,9 @@
 package com.mycompany.myapp;
 
-import android.app.*;
-import android.os.*;
-import android.view.*;
-import android.graphics.*;
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.View;
+import android.graphics.Bitmap;
 
   /**
    *  @author Submarine
