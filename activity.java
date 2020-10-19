@@ -11,7 +11,7 @@ import android.graphics.Bitmap;
 
 public class MainActivity extends Activity {
   
-  public static final String = "http://img1.gtimg.com/sports/pics/hv1/254/243/2090/135964469.jpg";
+  public static final String mUrl = "http://img1.gtimg.com/sports/pics/hv1/254/243/2090/135964469.jpg";
   
   private ImageView mImage;
   private Button mButton;
